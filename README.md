@@ -1,3 +1,8 @@
+
+### Credit: https://github.com/datitran/object_detector_app
+
+<img src="TelescopeUser/Screenshot from 2018-02-25 00-22-50 OpenCV real time video object detection.png" width="800" height="400" align="left" >
+
 # Object-Detector-App
 
 A real-time object recognition application using [Google's TensorFlow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection) and [OpenCV](http://opencv.org/).
@@ -30,3 +35,4 @@ pytest -vs utils/
 
 See [LICENSE](LICENSE) for details.
 Copyright (c) 2017 [Dat Tran](http://www.dat-tran.com/).
+
