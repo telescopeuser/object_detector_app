@@ -1,7 +1,7 @@
 
 ### Credit: https://github.com/datitran/object_detector_app
 
-<img src="TelescopeUser/Screenshot from 2018-02-25 00-22-50 OpenCV real time video object detection.png" width="800" height="400" align="left" >
+<img src="TelescopeUser/Screenshot from 2018-02-25 00-22-50 OpenCV real time video object detection.png">
 
 # Object-Detector-App
 
